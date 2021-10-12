@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HospitalSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HospitalSystem\ here.\r\n\r\n\ @ErykGrabkowski\ (your\ name)\r\n\ @1.0.0\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=doctorList
+comment2.target=void\ printDetails(Doctor[])
+numComments=3
